@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="FEFFFE92-5E9F-4FC6-8DC2-90B2BA75BBBD" version="0">
+	<info>
+		<title>EXAM 13 CLASS IX</title>
+		<description/>
+	</info>
+	<files index="id27" thumbnail="id23" totalSize="2255849">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-008eb841ffc5f130064872c832ca7c8e3171003c.png</file>
+		<file id="id10">data/images/img-023b65828d6a425a93e021f811f1b1ca5a9d6718.png</file>
+		<file id="id11">data/images/img-149b93e22071adeb5ad0da272ced7b13020e7b0b.png</file>
+		<file id="id12">data/images/img-1719e656bc95e623e6c056de3603df4e27835771.jpg</file>
+		<file id="id13">data/images/img-2e0257e09e64196bef29c61d4814d103060fd59c.png</file>
+		<file id="id14">data/images/img-6f7730f819c52b5feedd286a4fd15158e0e3c840.png</file>
+		<file id="id15">data/images/img-8b467e01370c19cb94b06f805b4e741015895bc8.png</file>
+		<file id="id16">data/images/img-a1ea5ed638d6cc437aab8e89e633308d3110e7ea.png</file>
+		<file id="id17">data/images/img-e414dcd1af367e4a167d3aed8de28d4b65218b4e.png</file>
+		<file id="id18">data/images/img-ebd3e9f82a8812e034a3eb49a05e28c67e0af6b0.png</file>
+		<file id="id19">data/images/img-ef1a26e4cd5f2068d4404e6884f9efb3b8a03002.png</file>
+		<file id="id20">data/images/img-f374bcfe89e9fcf41aed87691f8a6151b40e7880.png</file>
+		<file id="id21">data/ismplayer/app_store2x.png</file>
+		<file id="id22">data/ismplayer/play.svg</file>
+		<file id="id23">data/ismplayer/preview.png</file>
+		<file id="id24">data/ismplayer/style.css</file>
+		<file id="id25">data/ismplayer/style_mini.css</file>
+		<file id="id26">data/player.js</file>
+		<file id="id27">index.html</file>
+		<file id="id28">ismplayer.html</file>
+		<file id="id29">preview.png</file>
+	</files>
+</presentation>
+
